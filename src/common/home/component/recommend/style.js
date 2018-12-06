@@ -18,7 +18,6 @@ float: right;
 width:450px;
 height:100px;
 float：left;
-margin-right:10px;
 }
 .theme{
 
